@@ -3,7 +3,7 @@
       "name" : "demofolio",
       "x_okapi_url" : "https://okapi-demo.folio.ebsco.com",
       "x_okapi_tenant" : "fs00000002",
-      "x_okapi_token" : "eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJmb2xpbyIsInVzZXJfaWQiOiJkOTE2ZTg4My1mOGYxLTQxODgtYmMxZC1mMGRjZTE1MTFiNTAiLCJpYXQiOjE1OTE0OTY2MTMsInRlbmFudCI6ImZzMDAwMDAwMDIifQ.gQy46aQLmTNUa2QMkAHKvanv9vFvaZV4k4y8p5E6Obs",
+      "x_okapi_token" : "eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJms",
       "content_type": "application/json",
       "user" : "",
       "password" : "",
